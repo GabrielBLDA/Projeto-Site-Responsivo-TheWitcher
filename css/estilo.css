@@ -1,0 +1,53 @@
+header ul li {
+	font-size: 1.1em;
+	margin-right: 5px;
+}
+
+
+
+#home{
+	background: #020407;
+}
+
+section{
+	color: white;
+}
+
+#sessao2{
+	color: black;
+}
+
+#sessao3{
+	color: black;
+}
+
+.opacidade {
+	opacity: 0.6;
+	transition: transform 0.2s;
+}
+
+
+.opacidade:hover{
+	opacity: 1;
+	transform: scale(1.5);
+	
+}
+
+
+.empurrar{
+	margin-top: 4em;
+}
+
+.caixa{
+	padding: 10px 0;
+	border-bottom: 2px solid #e5e5e5;
+	color: black;
+}
+
+.borda {
+	border-bottom: 5px solid black;
+}
+
+
+
+
