@@ -33,9 +33,8 @@ section{
 	
 }
 
-
 .empurrar{
-	margin-top: 4em;
+	margin-top: 3em;
 }
 
 .caixa{
@@ -48,6 +47,11 @@ section{
 	border-bottom: 5px solid black;
 }
 
+
+#runas{
+	background: #020407;
+	color: white;
+}
 
 
 
